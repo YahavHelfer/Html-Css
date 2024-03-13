@@ -16,7 +16,7 @@ This is my first project, I used html and css for the landing pages. On the home
 bang
 Copy code
 # Layer the buffer
-Clone git https://github.com/yourusername/yourproject.git
+Clone git[ https://github.com/yourusername/yourproject.git](https://github.com/YahavHelfer/Html-Css.git)
 
 # Navigate to the project directory
 Your project CD
