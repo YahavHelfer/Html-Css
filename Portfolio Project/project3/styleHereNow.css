@@ -106,12 +106,10 @@ html {
     .input {
         width: calc(100% - 22px);
         margin: 5px;
-        /* Adjust margin for better spacing */
     }
 
     .input-container {
         flex-direction: column;
-        /* Stack inputs vertically */
     }
 
     .label-one {
@@ -122,9 +120,7 @@ html {
 
     .label-two {
         position: static;
-        /* Reset position for labels */
         margin-top: 10px;
-        /* Add margin for spacing */
         margin-right: 24px;
     }
 
